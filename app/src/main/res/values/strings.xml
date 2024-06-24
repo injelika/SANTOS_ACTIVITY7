@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Sonny Angel♡</string>
+    <string name="sonny_angel_1">Calico</string>
+    <string name="sonny_angel_2">Silver Tabby</string>
+    <string name="sonny_angel_3">Tuxedo</string>
+    <string name="sonny_angel_4">Siamese</string>
+    <string name="sonny_angel_5">White</string>
+    <string name="sonny_angel_6">Brown and Black</string>
+    <string name="sonny_angel_7">Bluish Gray</string>
+    <string name="sonny_angel_8">Red Tabby</string>
+    <string name="sonny_angel_9">Black</string>
+    <string name="SA_description_1">Cat Life Series</string>
+    <string name="SA_description_2">Cat Life Series</string>
+    <string name="SA_description_3">Cat Life Series</string>
+    <string name="SA_description_4">Cat Life Series</string>
+    <string name="SA_description_5">Cat Life Series</string>
+    <string name="SA_description_6">Cat Life Series</string>
+    <string name="SA_description_7">Cat Life Series</string>
+    <string name="SA_description_8">Cat Life Series</string>
+    <string name="SA_description_9">Cat Life Series</string>
+    <string name="about">About:</string>
+    <string name="years_old">%d years old</string>
+    <string name="expand_button_content_description">See more or less information about a Sonny Angel.</string>
+</resources>
